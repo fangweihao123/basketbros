@@ -1,22 +1,22 @@
 {
-  "name": "",
-  "slogan": "slogan",
-  "domain": "",
+  "name": "Basket Bros",
+  "slogan": "Ultimate Basketball Gaming Experience",
+  "domain": "https://basketballbros.space",
   "icon": "/favicon.ico",
   "appleIcon": "/apple-touch-icon.png",
   "templateType":"single-game",
   "theme": {
-    "name":"dark",
-    "headFont": "Arial, sans-serif",
-    "primaryColor": "#007bff",
-    "fontColor": "#333333",
-    "backgroundColor": "#ffffff"
+    "name":"soft-pop",
+    "headFont": "DM Sans, sans-serif",
+    "primaryColor": "#8b5cf6",
+    "fontColor": "#1f2937",
+    "backgroundColor": "#f9fafb"
   },
   "gaId": "",
   "clarityId": "",
   "plausible": "",
   "gameType": "iframe",
-  "gameIframeUrl": "",
+  "gameIframeUrl": "https://basketbros.io/",
   "gameRedirectUrl": "",
   "bgType": "iframe",
   "bgImage": "",
@@ -48,10 +48,22 @@
   ],
   "comments": [
     {
-      "author": "",
-      "role": "",
-      "content": "",
-      "avatar": ""
+      "author": "Mike Johnson",
+      "role": "Basketball Fan",
+      "content": "Basket Bros is amazing! The gameplay is so smooth and the graphics are fantastic. I love the different characters and their unique abilities.",
+      "avatar": "/avatars/user1.png"
+    },
+    {
+      "author": "Sarah Wilson",
+      "role": "Gamer",
+      "content": "Best basketball game I've played online! The controls are intuitive and the multiplayer mode is super fun. Highly recommended!",
+      "avatar": "/avatars/user2.png"
+    },
+    {
+      "author": "David Chen",
+      "role": "Sports Enthusiast",
+      "content": "The dunking mechanics in Basket Bros are incredible. Each match feels different and exciting. Great game for basketball lovers!",
+      "avatar": "/avatars/user3.png"
     }
   ],
   "isShowRecommendation": true,

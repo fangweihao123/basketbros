@@ -1,9 +1,10 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "Basket Bros - Ultimate Basketball Gaming Experience",
+  "slogan": "Ultimate Basketball Gaming Experience",
+  "Ultimate Basketball Gaming Experience": "Ultimate Basketball Gaming Experience",
+  "description": "Play Basket Bros online! Experience the ultimate basketball game with amazing characters, smooth gameplay, and exciting multiplayer action. Jump, dunk, and score your way to victory!",
   "Loading": {
-    "title": ""
+    "title": "Loading Basket Bros..."
   },
   "Navbar":{
     "title": "Nav"
@@ -22,32 +23,32 @@
     "previous":"Previous"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
+    "title": "Play Basket Bros Online",
+    "description": "Experience the ultimate basketball game with amazing graphics and smooth gameplay. Choose your character and dominate the court!",
+    "iframeTitle": "Basket Bros Game",
     "fullscreenButton": "Fullscreen",
     "shareButton": "Share",
     "urlCopied": "URL copied to clipboard!",
     "downloadGame": "Download Game",
-    "playGame": "Play Game"
+    "playGame": "Play Basket Bros"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
+    "gameTitle": "Basket Bros",
+    "whatIsTitle": "What is Basket Bros?",
+    "whatIsDescription": "Basket Bros is an exciting online basketball game featuring unique characters with special abilities. Experience fast-paced basketball action with stunning graphics and intuitive controls.",
     "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
+    "howToPlayStep1": "Choose your favorite basketball character",
+    "howToPlayStep2": "Use arrow keys to move and spacebar to jump",
+    "howToPlayStep3": "Dunk, shoot, and score to win the game!",
     "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "feature1Title": "Multiple Characters",
+    "feature1Description": "Choose from various basketball players, each with unique abilities and special moves",
+    "feature2Title": "Smooth Gameplay",
+    "feature2Description": "Experience fluid controls and responsive gameplay for the ultimate basketball experience",
+    "feature3Title": "Multiplayer Mode",
+    "feature3Description": "Play against friends or other players online in exciting multiplayer matches",
+    "feature4Title": "Amazing Graphics",
+    "feature4Description": "Enjoy stunning visuals and smooth animations that bring the basketball court to life"
   },
   "HomeFAQs": {
     "title": "FAQs"

@@ -5,6 +5,7 @@ import purpleTechTheme from './purple-tech.json';
 import cyberpunkTheme from './cyberpunk-neon.json';
 import deepSeaTheme from './deep-sea.json';
 import deepRedTheme from './deep-red.json';
+import softPopTheme from './soft-pop.json';
 
 const themes: Record<string, any> = {
   default: defaultTheme,
@@ -13,7 +14,8 @@ const themes: Record<string, any> = {
   'purple-tech': purpleTechTheme,
   'cyberpunk-neon': cyberpunkTheme,
   'deep-sea': deepSeaTheme,
-  'deep-red': deepRedTheme
+  'deep-red': deepRedTheme,
+  'soft-pop': softPopTheme
 };
 
 export function getTheme(name: string) {

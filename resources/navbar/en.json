@@ -2,5 +2,17 @@
     {
         "title": "Home",
         "href": "/"
+    },
+    {
+        "title": "Play Game",
+        "href": "/#game"
+    },
+    {
+        "title": "Features",
+        "href": "/#features"
+    },
+    {
+        "title": "FAQs",
+        "href": "/#faqs"
     }
 ]

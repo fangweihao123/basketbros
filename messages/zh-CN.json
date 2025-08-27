@@ -1,9 +1,10 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "篮球兄弟 - 终极篮球游戏体验",
+  "slogan": "终极篮球游戏体验",
+  "Ultimate Basketball Gaming Experience": "终极篮球游戏体验",
+  "description": "在线玩篮球兄弟！体验终极篮球游戏，拥有精彩的角色、流畅的游戏玩法和令人兴奋的多人对战。跳跃、扣篮，投篮得分走向胜利！",
   "Loading": {
-    "title": ""
+    "title": "正在加载篮球兄弟..."
   },
   "Navbar": {
     "title": "Nav"
@@ -22,32 +23,32 @@
     "previous": "上一页"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "遊戲預覽",
-    "fullscreenButton": "全螢幕",
+    "title": "在线玩篮球兄弟",
+    "description": "体验终极篮球游戏，拥有精彩的图形和流畅的游戏玩法。选择你的角色，称霸球场！",
+    "iframeTitle": "篮球兄弟游戏",
+    "fullscreenButton": "全屏",
     "shareButton": "分享",
-    "urlCopied": "網址已複製到剪貼板!",
-    "downloadGame": "下載遊戲",
-    "playGame": "开始游戏"
+    "urlCopied": "网址已复制到剪贴板!",
+    "downloadGame": "下载游戏",
+    "playGame": "玩篮球兄弟"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "如何遊玩",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "篮球兄弟",
+    "whatIsTitle": "什么是篮球兄弟？",
+    "whatIsDescription": "篮球兄弟是一款令人兴奋的在线篮球游戏，具有独特的角色和特殊能力。体验快节奏的篮球动作，拥有惊艳的图形和直观的控制。",
+    "howToPlayTitle": "如何游玩",
+    "howToPlayStep1": "选择你最喜欢的篮球角色",
+    "howToPlayStep2": "使用箭头键移动，空格键跳跃",
+    "howToPlayStep3": "扣篮、投篮，得分赢得比赛！",
+    "keyFeaturesTitle": "主要特色",
+    "feature1Title": "多种角色",
+    "feature1Description": "从各种篮球运动员中选择，每个都有独特的能力和特殊动作",
+    "feature2Title": "流畅游戏",
+    "feature2Description": "体验流畅的控制和响应式游戏玩法，获得终极篮球体验",
+    "feature3Title": "多人模式",
+    "feature3Description": "与朋友或其他在线玩家进行激动人心的多人对战",
+    "feature4Title": "精美图形",
+    "feature4Description": "享受惊艳的视觉效果和流畅的动画，让篮球场栩栩如生"
   },
   "HomeFAQs": {
     "title": "FAQs"

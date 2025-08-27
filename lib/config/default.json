@@ -1,7 +1,7 @@
 {
-  "name": "Sprunki Retake",
-  "slogan": "slogan",
-  "domain": "https://sprunkiretake.fun",
+  "name": "Basket Bros",
+  "slogan": "Ultimate Basketball Gaming Experience",
+  "domain": "https://basketballbros.space",
   "icon": "/favicon.ico",
   "appleIcon": "/apple-touch-icon.png",
   "theme": {
@@ -27,8 +27,8 @@
       "href": "/t"
     }
   ],
-  "gameType": "popup",
-  "gameIframeUrl": "https://scratch.mit.edu/projects/1090434936/embed",
+  "gameType": "iframe",
+  "gameIframeUrl": "https://basketbros.io/",
   "gameRedirectUrl": "",
   "bgType": "image",
   "bgImage": "https://www.liarsbar.net/_next/image?url=https%3A%2F%2Fpub-7589a897b34045d6986ae76394f87b7b.r2.dev%2Fbar-background.webp&w=640&q=75",
@@ -44,7 +44,7 @@
     }
   },
   "isShowFAQs": true,
-  "isShowVideo": true,
+  "isShowVideo": false,
   "isShowGuide": true,
   "videos": [
     {
@@ -68,40 +68,40 @@
   ],
   "comments": [
     {
-      "author": "Lorenz S.",
-      "role": "player",
-      "avatar": "https://api.multiavatar.com/Lorenz S..png",
-      "content": "This game is so much fun! I love the new sounds and characters in the Sprunki Retake mod. It's like the original Incredibox, but even better! "
+      "author": "Mike Johnson",
+      "role": "Basketball Fan",
+      "avatar": "https://api.multiavatar.com/Mike Johnson.png",
+      "content": "Basket Bros is amazing! The gameplay is so smooth and the graphics are fantastic. I love the different characters and their unique abilities."
     },
     {
-      "author": "Ben Stephens — ??️/acc",
-      "role": "player",
-      "avatar": "https://api.multiavatar.com/Ben Stephens — ??️/acc.png",
-      "content": "I'm a huge fan of the Incredibox series, and the Sprunki Retake mod is a great addition. The new tracks are amazing, and the graphics are really cool too."
+      "author": "Sarah Wilson",
+      "role": "Gamer",
+      "avatar": "https://api.multiavatar.com/Sarah Wilson.png",
+      "content": "Best basketball game I've played online! The controls are intuitive and the multiplayer mode is super fun. Highly recommended!"
     },
     {
-      "author": "MK",
-      "role": "player",
-      "avatar": "https://api.multiavatar.com/MK.png",
-      "content": "I can't get enough of Incredibox! The Sprunki Retake mod is a must-play for fans of the original game. The new sounds and characters are a blast."
+      "author": "David Chen",
+      "role": "Sports Enthusiast",
+      "avatar": "https://api.multiavatar.com/David Chen.png",
+      "content": "The dunking mechanics in Basket Bros are incredible. Each match feels different and exciting. Great game for basketball lovers!"
     },
     {
-      "author": "Packy McCormick",
-      "role": "player",
-      "avatar": "https://api.multiavatar.com/Packy McCormick.png",
-      "content": "I love the creativity that goes into making these music mixes in Incredibox. The Sprunki Retake mod takes it to a whole new level."
+      "author": "Alex Rodriguez",
+      "role": "Player",
+      "avatar": "https://api.multiavatar.com/Alex Rodriguez.png",
+      "content": "I can't stop playing Basket Bros! The character customization is awesome and the gameplay is so addictive."
     },
     {
-      "author": "Lex Fridman",
-      "role": "player",
-      "avatar": "https://api.multiavatar.com/Lex Fridman.png",
-      "content": "The Sprunki Retake mod is a great way to unwind and de-stress. The music is so catchy, and it's really easy to lose yourself in the creative process."
+      "author": "Emily Johnson",
+      "role": "Casual Gamer",
+      "avatar": "https://api.multiavatar.com/Emily Johnson.png",
+      "content": "Perfect game to play with friends! The multiplayer matches are intense and fun. Love the variety of moves you can do."
     },
     {
-      "author": "Mike Taylor",
-      "role": "player",
-      "avatar": "https://api.multiavatar.com/Mike Taylor.png",
-      "content": "I've been playing Incredibox for years, and the Sprunki Retake mod is one of the best updates yet. The new sounds and characters are a great addition to the game."
+      "author": "James Wilson",
+      "role": "Basketball Player",
+      "avatar": "https://api.multiavatar.com/James Wilson.png",
+      "content": "As a real basketball player, I appreciate how realistic yet fun this game is. Great physics and smooth animations!"
     }
   ],
   "isShowRecommendation": true,
@@ -117,6 +117,7 @@
   "faviconTextColor": "#ffeb3b",
   "faviconText": "SR",
   "enablePromotion": true,
+  "customizeFeatures": true,
   "selectedMaterial": {
     "type": "video",
     "ratio": "16:9",
