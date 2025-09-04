@@ -54,6 +54,33 @@ export default async function LocaleLayout({ children, params }: Props) {
       <SidebarProvider>
         <Toaster />
         <Navbar items={navbars} />
+        {!isDev && (
+          <div className="flex justify-center py-4 bg-gray-50 dark:bg-gray-900">
+            <div
+              id="banner-ad-top"
+              style={{ width: '300px', height: '250px' }}
+            >
+              <script
+                type="text/javascript"
+                dangerouslySetInnerHTML={{
+                  __html: `
+                    atOptions = {
+                        'key': 'faba8c51cc3e38ae5e238375752aec55',
+                        'format': 'iframe',
+                        'height': 250,
+                        'width': 300,
+                        'params': {}
+                    };
+                  `
+                }}
+              />
+              <script
+                type="text/javascript"
+                src="//www.highperformanceformat.com/faba8c51cc3e38ae5e238375752aec55/invoke.js"
+              />
+            </div>
+          </div>
+        )}
         {children}
         <Footer items={navbars} />
         {!isDev && (
