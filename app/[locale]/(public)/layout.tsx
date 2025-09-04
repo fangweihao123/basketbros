@@ -12,6 +12,7 @@ import { Toaster } from '@/lib/ui/components/toaster';
 import { GoogleAnalytics } from '@next/third-parties/google';
 import MicrosoftClarity from '@/lib/components/microsoft-clarity';
 import { SidebarProvider } from '@/lib/context/SidebarContext';
+import Script from 'next/script';
 
 type Props = {
   children: ReactNode;
@@ -60,8 +61,9 @@ export default async function LocaleLayout({ children, params }: Props) {
               id="banner-ad-top"
               style={{ width: '300px', height: '250px' }}
             >
-              <script
-                type="text/javascript"
+              <Script
+                id="banner-ad-config"
+                strategy="afterInteractive"
                 dangerouslySetInnerHTML={{
                   __html: `
                     atOptions = {
@@ -74,9 +76,9 @@ export default async function LocaleLayout({ children, params }: Props) {
                   `
                 }}
               />
-              <script
-                type="text/javascript"
+              <Script
                 src="//www.highperformanceformat.com/faba8c51cc3e38ae5e238375752aec55/invoke.js"
+                strategy="afterInteractive"
               />
             </div>
           </div>
