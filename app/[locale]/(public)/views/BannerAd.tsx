@@ -1,33 +1,27 @@
 'use client';
 
-import { JSX, useEffect, useRef } from 'react';
+import { useEffect, useState  } from 'react';
 
-export default function BannerAd() : JSX.Element {
-  const banner = useRef<HTMLDivElement>(null)
-
-  const atOptions = {
-    'key': 'faba8c51cc3e38ae5e238375752aec55',
-    'format': 'iframe',
-    'height': 250,
-    'width': 300,
-    'params': {}
-  };
+export default function BannerAd() {
+  const [adWidth, setAdWidth] = useState(300);
+  const [adHeight, setAdHeight] = useState(250);
 
   useEffect(() => {
-    if(banner.current && !banner.current.firstChild){
-      const conf = document.createElement('script')
-      const script = document.createElement('script')
-      script.type = 'text/javascript'
-      script.src = `//www.highperformanceformat.com/${atOptions.key}/invoke.js`
-      conf.innerHTML = `atOptions = ${JSON.stringify(atOptions)}`
+      const updateWidth = () => {
+          setAdWidth(window.innerWidth >= 768 ? 300 : 150);
+          setAdHeight(window.innerWidth >= 768 ? 250 : 125);
+      };
+      updateWidth()
+  }, []);
 
-      if (banner.current) {
-          banner.current.append(conf)
-          banner.current.append(script)
-      }
-      console.log("banner" , banner)
-    }
-  }, [banner]);
-
-  return <div ref={banner}></div>;
+  return (
+      <div className="flex justify-center">
+          <iframe
+              src={`/adsterra_${adWidth}.html`}
+              width={`${adWidth}px`}
+              height={`${adHeight}px`}
+              scrolling="no"
+          />
+      </div>
+    );
 }
