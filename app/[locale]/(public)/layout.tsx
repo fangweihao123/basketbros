@@ -55,7 +55,7 @@ export default async function LocaleLayout({ children, params }: Props) {
       <SidebarProvider>
         <Toaster />
         <Navbar items={navbars} />
-        {<BannerAd />}
+        {!isDev && <BannerAd />}
         {children}
         <Footer items={navbars} />
         {!isDev && (
