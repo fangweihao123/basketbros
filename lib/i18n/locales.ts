@@ -80,9 +80,13 @@ export const getCurrentLocaleName = (locale: string) => {
 
 // 生成多语言的alternates
 export function alternatesLanguage(subPath: string) {
-  const path = process.env.UE_WEB_URL && !process.env.UE_WEB_URL.startsWith('https://')
-    ? `https://${process.env.UE_WEB_URL}`
-    : process.env.UE_WEB_URL;
+  // 优先使用环境变量，如果不存在则使用默认域名
+  let path = process.env.UE_WEB_URL || 'https://basketballbros.space';
+  
+  // 确保域名以 https:// 开头
+  if (!path.startsWith('https://')) {
+    path = `https://${path}`;
+  }
 
   const languages: Record<string, string> = {};
   locales.forEach((lang) => {
@@ -92,7 +96,14 @@ export function alternatesLanguage(subPath: string) {
 }
 
 export function alternatesCanonical(locale: string, subPath: string, page?: string) {
-  const path = process.env.UE_WEB_URL;
+  // 优先使用环境变量，如果不存在则使用默认域名
+  let path = process.env.UE_WEB_URL || 'https://basketballbros.space';
+  
+  // 确保域名以 https:// 开头
+  if (!path.startsWith('https://')) {
+    path = `https://${path}`;
+  }
+  
   const withPages = page ? `/${page}` : '';
   return `${path}${defaultLocale === locale ? '' : `/${locale}`}${subPath}${withPages}`;
 }

@@ -12,7 +12,8 @@ import { Toaster } from '@/lib/ui/components/toaster';
 import { GoogleAnalytics } from '@next/third-parties/google';
 import MicrosoftClarity from '@/lib/components/microsoft-clarity';
 import { SidebarProvider } from '@/lib/context/SidebarContext';
-import BannerAd from './views/BannerAd';
+import NativeBannerAd from './views/NativeBannerAd';
+import PopunderAd from './views/PopunderAd';
 
 type Props = {
   children: ReactNode;
@@ -55,7 +56,7 @@ export default async function LocaleLayout({ children, params }: Props) {
       <SidebarProvider>
         <Toaster />
         <Navbar items={navbars} />
-        {!isDev && <BannerAd />}
+        {<NativeBannerAd />}
         {children}
         <Footer items={navbars} />
         {!isDev && (

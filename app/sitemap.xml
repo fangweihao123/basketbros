@@ -5,95 +5,218 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
+<!-- Main Pages -->
 <url>
-  <loc>https://www.xxx.com</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/zh-CN</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/zh-CN</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/es</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/es</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/fr</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/fr</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/bn</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/bn</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/ru</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/ru</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/pt</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/pt</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/pt-BR</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/pt-BR</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/id</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/id</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/de</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/de</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/ja</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/ja</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/tr</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/tr</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/vi</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/vi</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/th</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/th</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/ko</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/ko</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/it</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/it</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/uk</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/uk</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.xxx.com/zh-TW</loc>
-  <lastmod>2024-10-15T15:39:02+00:00</lastmod>
+  <loc>https://basketballbros.space/zh-TW</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+
+<!-- Game Pages -->
+<url>
+  <loc>https://basketballbros.space/games/HoopWorld</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/HoopsTheGame</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/BasketBattle1</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/BasketballBeans</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/DropDunks</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/BasketballsSchool</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/StreetBasketball</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/HiddenBasketball</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/BasketballPark</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/BasketballRunner</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/BasketballStreet</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/SkibidiToiletBasketball</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/ChillDunk</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/IncredibleBasketball</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/BasketballLife3d</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/BasketSniper</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/PerfectShot</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/BasketNewEraBasketball</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/SlingShot</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/SkibidiToiletBasket</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/BasketballBlitz</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/PixelBasket</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/BasketLine</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://basketballbros.space/games/FastHoops</loc>
+  <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 
 </urlset>

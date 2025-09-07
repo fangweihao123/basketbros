@@ -6,6 +6,7 @@ import FAQs from '@/app/[locale]/(public)/views/FAQs';
 import Features from '@/app/[locale]/(public)/views/Features';
 import IframeSection from '@/app/[locale]/(public)/views/IframeSection';
 import Recommendation from '@/app/[locale]/(public)/views/Recommendation';
+import BannerAd from '@/app/[locale]/(public)/views/BannerAd';
 import RelatedVideo from '@/app/[locale]/(public)/views/RelatedVideo';
 import SectionWrapper from '@/app/[locale]/(public)/views/SectionWrapper';
 import DownloadGame from '@/app/[locale]/(public)/views/DownloadGame';
@@ -91,7 +92,11 @@ export default async function Page({ params }: Props) {
           </div>
           
           {/* 右侧推荐卡片 - 移动端隐藏 */}
-          <GameRecommendationCard locale={locale} />
+          {/* 右侧推荐卡片 - 移动端隐藏 */}
+          <div className="flex flex-col">
+            <BannerAd />
+            <GameRecommendationCard locale={locale} />
+          </div>
         </div>
       </div>
     </div>
