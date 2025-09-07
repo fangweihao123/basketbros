@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: `${t(`${pageName}.title`)}`,
     description: t(`${pageName}.description`),
     keywords: [
-      pageName,
+      pageName || 'basketball',
       'basketball game',
       'arcade basketball',
       'online basketball',
