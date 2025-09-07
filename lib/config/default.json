@@ -117,7 +117,7 @@
   "faviconTextColor": "#ffeb3b",
   "faviconText": "SR",
   "enablePromotion": true,
-  "customizeFeatures": true,
+  "customizeFeatures": false,
   "selectedMaterial": {
     "type": "video",
     "ratio": "16:9",

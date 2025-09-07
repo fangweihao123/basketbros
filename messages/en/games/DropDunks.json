@@ -1,0 +1,66 @@
+{
+  "DropDunks": {
+    "title": "Drop Dunks - Play Online Free",
+    "slogan": "Play Drop Dunks Online",
+    "description": "Bounce, aim, and score in Drop Dunks! Control a platform to deflect balls into baskets for points, while three dispensers challenge your reflexes. Strategically upgrade to new balls and cannons. It's basketball with a twist—where quick thinking and precision are your best teammates. Dive in and dominate the court!",
+    "Loading": {
+      "title": "Loading Drop Dunks..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Play Drop Dunks Online",
+      "description": "Bounce, aim, and score in Drop Dunks! Control a platform to deflect balls into baskets for points, while three dispensers challenge your reflexes. Strategically upgrade to new balls and cannons. It's basketball with a twist—where quick thinking and precision are your best teammates. Dive in and dominate the court!",
+      "iframeTitle": "Drop Dunks Game",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Drop Dunks"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Drop Dunks",
+      "whatIsTitle": "What is Drop Dunks?",
+      "whatIsDescription": "Bounce, aim, and score in Drop Dunks! Control a platform to deflect balls into baskets for points, while three dispensers challenge your reflexes. Strategically upgrade to new balls and cannons. It's basketball with a twist—where quick thinking and precision are your best teammates. Dive in and dominate the court!",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use Arrow/WASD to move",
+      "howToPlayStep2": "Press Space to jump",
+      "howToPlayStep3": "Time shots and dunks to score",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Fast, Fluid Gameplay",
+      "feature1Description": "Tight controls keep every possession exciting",
+      "feature2Title": "Clean Visuals",
+      "feature2Description": "Smooth animations and readable court action",
+      "feature3Title": "Instant Play",
+      "feature3Description": "Runs in the browser — no installs",
+      "feature4Title": "Fullscreen Support",
+      "feature4Description": "Toggle fullscreen for immersion"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    }
+  }
+}

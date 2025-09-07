@@ -6,7 +6,7 @@
   "appleIcon": "/apple-touch-icon.png",
   "templateType":"single-game",
   "theme": {
-    "name":"soft-pop",
+    "name":"dark",
     "headFont": "DM Sans, sans-serif",
     "primaryColor": "#8b5cf6",
     "fontColor": "#1f2937",
@@ -69,5 +69,5 @@
   ],
   "isShowRecommendation": true,
   "enablePromotion": false,
-  "customizeFeatures": true
+  "customizeFeatures": false
 }

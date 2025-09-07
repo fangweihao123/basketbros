@@ -1,0 +1,66 @@
+{
+  "BasketNewEraBasketball": {
+    "title": "Basket New Era - Play Online Free",
+    "slogan": "Play Basket New Era Online",
+    "description": "Dive into Basket New Era, a vibrant hyper-casual adventure where timing and precision are your keys to success. Guide colorful balls into the basket while navigating dynamic obstacles, unlocking increasingly challenging levels as you master each thrilling shot. Patience and practice are your pathways to glory!",
+    "Loading": {
+      "title": "Loading Basket New Era..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Play Basket New Era Online",
+      "description": "Dive into Basket New Era, a vibrant hyper-casual adventure where timing and precision are your keys to success. Guide colorful balls into the basket while navigating dynamic obstacles, unlocking increasingly challenging levels as you master each thrilling shot. Patience and practice are your pathways to glory!",
+      "iframeTitle": "Basket New Era Game",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Basket New Era"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Basket New Era",
+      "whatIsTitle": "What is Basket New Era?",
+      "whatIsDescription": "Dive into Basket New Era, a vibrant hyper-casual adventure where timing and precision are your keys to success. Guide colorful balls into the basket while navigating dynamic obstacles, unlocking increasingly challenging levels as you master each thrilling shot. Patience and practice are your pathways to glory!",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use Arrow/WASD to move",
+      "howToPlayStep2": "Press Space to jump",
+      "howToPlayStep3": "Time shots and dunks to score",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Fast, Fluid Gameplay",
+      "feature1Description": "Tight controls keep every possession exciting",
+      "feature2Title": "Clean Visuals",
+      "feature2Description": "Smooth animations and readable court action",
+      "feature3Title": "Instant Play",
+      "feature3Description": "Runs in the browser — no installs",
+      "feature4Title": "Fullscreen Support",
+      "feature4Description": "Toggle fullscreen for immersion"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    }
+  }
+}

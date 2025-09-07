@@ -1,0 +1,66 @@
+{
+  "ChillDunk": {
+    "title": "Chill Dunk - Play Online Free",
+    "slogan": "Play Chill Dunk Online",
+    "description": "Sink into the tranquil world of Chill Dunk, where every shot and swish brings pure satisfaction. Navigate simplistic controls in a charming retro atmosphere, and enjoy endless relaxing sessions accompanied by captivating 8-bit tunes. Perfect your aim and technique without any pressure, just pure, stress-free fun.",
+    "Loading": {
+      "title": "Loading Chill Dunk..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Play Chill Dunk Online",
+      "description": "Sink into the tranquil world of Chill Dunk, where every shot and swish brings pure satisfaction. Navigate simplistic controls in a charming retro atmosphere, and enjoy endless relaxing sessions accompanied by captivating 8-bit tunes. Perfect your aim and technique without any pressure, just pure, stress-free fun.",
+      "iframeTitle": "Chill Dunk Game",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Chill Dunk"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Chill Dunk",
+      "whatIsTitle": "What is Chill Dunk?",
+      "whatIsDescription": "Sink into the tranquil world of Chill Dunk, where every shot and swish brings pure satisfaction. Navigate simplistic controls in a charming retro atmosphere, and enjoy endless relaxing sessions accompanied by captivating 8-bit tunes. Perfect your aim and technique without any pressure, just pure, stress-free fun.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use Arrow/WASD to move",
+      "howToPlayStep2": "Press Space to jump",
+      "howToPlayStep3": "Time shots and dunks to score",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Fast, Fluid Gameplay",
+      "feature1Description": "Tight controls keep every possession exciting",
+      "feature2Title": "Clean Visuals",
+      "feature2Description": "Smooth animations and readable court action",
+      "feature3Title": "Instant Play",
+      "feature3Description": "Runs in the browser — no installs",
+      "feature4Title": "Fullscreen Support",
+      "feature4Description": "Toggle fullscreen for immersion"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    }
+  }
+}

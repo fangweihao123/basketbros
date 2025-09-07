@@ -1,0 +1,60 @@
+{
+  "name": "Sling Dunk",
+  "pagePath": "/games/SlingShot",
+  "pageName": "SlingShot",
+  "theme": {
+    "headFont": "Arial, sans-serif",
+    "primaryColor": "#007bff",
+    "fontColor": "#333333",
+    "backgroundColor": "#ffffff"
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://play.gamepix.com/sling-shot/embed?sid=1",
+  "gameRedirectUrl": "",
+  "bgType": "image",
+  "bgImage": "https://img.gamepix.com/games/sling-shot/cover/sling-shot.png?w=320",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "Alex Carter",
+      "role": "Gamer",
+      "content": "Sling Dunk is fun and runs smoothly in my browser!",
+      "avatar": "https://api.multiavatar.com/Alex%20Carter.png"
+    },
+    {
+      "author": "Maya Singh",
+      "role": "Casual Player",
+      "content": "Quick matches and simple controls make Sling Dunk easy to pick up.",
+      "avatar": "https://api.multiavatar.com/Maya%20Singh.png"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://img.gamepix.com/games/sling-shot/cover/sling-shot.png?w=320"
+}

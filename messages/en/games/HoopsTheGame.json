@@ -1,0 +1,66 @@
+{
+  "HoopsTheGame": {
+    "title": "HOOPS the Game - Play Online Free",
+    "slogan": "Play HOOPS the Game Online",
+    "description": "Precision and timing are your best allies in HOOPS! Maneuver skillfully as you toss your basketball from hoop to hoop, aiming for direct shots to rack up bonus points. Collect coins along the way to unlock stylish customizations for your ball. Can you master the ultimate high score challenge?",
+    "Loading": {
+      "title": "Loading HOOPS the Game..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Play HOOPS the Game Online",
+      "description": "Precision and timing are your best allies in HOOPS! Maneuver skillfully as you toss your basketball from hoop to hoop, aiming for direct shots to rack up bonus points. Collect coins along the way to unlock stylish customizations for your ball. Can you master the ultimate high score challenge?",
+      "iframeTitle": "HOOPS the Game Game",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play HOOPS the Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "HOOPS the Game",
+      "whatIsTitle": "What is HOOPS the Game?",
+      "whatIsDescription": "Precision and timing are your best allies in HOOPS! Maneuver skillfully as you toss your basketball from hoop to hoop, aiming for direct shots to rack up bonus points. Collect coins along the way to unlock stylish customizations for your ball. Can you master the ultimate high score challenge?",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use Arrow/WASD to move",
+      "howToPlayStep2": "Press Space to jump",
+      "howToPlayStep3": "Time shots and dunks to score",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Fast, Fluid Gameplay",
+      "feature1Description": "Tight controls keep every possession exciting",
+      "feature2Title": "Clean Visuals",
+      "feature2Description": "Smooth animations and readable court action",
+      "feature3Title": "Instant Play",
+      "feature3Description": "Runs in the browser — no installs",
+      "feature4Title": "Fullscreen Support",
+      "feature4Description": "Toggle fullscreen for immersion"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    }
+  }
+}

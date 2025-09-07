@@ -1,0 +1,66 @@
+{
+  "PerfectShot": {
+    "title": "Perfect Shot - Play Online Free",
+    "slogan": "Play Perfect Shot Online",
+    "description": "Dive into Perfect Shot and master the art of basketball precision. With each perfectly timed throw, challenge your reflexes as you aim for seamless swishes. Limited balls and increasing speed keep the excitement soaring. Are your skills sharp enough to dominate the leaderboard? Start shooting and find out!",
+    "Loading": {
+      "title": "Loading Perfect Shot..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Play Perfect Shot Online",
+      "description": "Dive into Perfect Shot and master the art of basketball precision. With each perfectly timed throw, challenge your reflexes as you aim for seamless swishes. Limited balls and increasing speed keep the excitement soaring. Are your skills sharp enough to dominate the leaderboard? Start shooting and find out!",
+      "iframeTitle": "Perfect Shot Game",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Perfect Shot"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Perfect Shot",
+      "whatIsTitle": "What is Perfect Shot?",
+      "whatIsDescription": "Dive into Perfect Shot and master the art of basketball precision. With each perfectly timed throw, challenge your reflexes as you aim for seamless swishes. Limited balls and increasing speed keep the excitement soaring. Are your skills sharp enough to dominate the leaderboard? Start shooting and find out!",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use Arrow/WASD to move",
+      "howToPlayStep2": "Press Space to jump",
+      "howToPlayStep3": "Time shots and dunks to score",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Fast, Fluid Gameplay",
+      "feature1Description": "Tight controls keep every possession exciting",
+      "feature2Title": "Clean Visuals",
+      "feature2Description": "Smooth animations and readable court action",
+      "feature3Title": "Instant Play",
+      "feature3Description": "Runs in the browser — no installs",
+      "feature4Title": "Fullscreen Support",
+      "feature4Description": "Toggle fullscreen for immersion"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    }
+  }
+}

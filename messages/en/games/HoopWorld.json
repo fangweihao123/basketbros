@@ -1,0 +1,66 @@
+{
+  "HoopWorld": {
+    "title": "HoopWorld - Arcade Basketball Game",
+    "slogan": "Dribble, Dunk, Dominate",
+    "description": "Play HoopWorld online! Fast-paced arcade basketball with tight controls, power dunks, and clutch blocks. Jump in, throw it down, and win the game!",
+    "Loading": {
+      "title": "Loading HoopWorld..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Play HoopWorld Online",
+      "description": "Fast-paced arcade basketball. Pick a player, time your jumps, and throw down huge dunks to win.",
+      "iframeTitle": "HoopWorld Game",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play HoopWorld"
+    },
+    "HomeFeatures": {
+      "gameTitle": "HoopWorld",
+      "whatIsTitle": "What is HoopWorld?",
+      "whatIsDescription": "HoopWorld is a fast‑paced arcade basketball game built for quick matches and over‑the‑top plays.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Pick a player or team with your preferred style",
+      "howToPlayStep2": "Use Arrow/WASD to move, Space to jump, then shoot or dunk",
+      "howToPlayStep3": "Time blocks, steals, and power moves to outscore your rival",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Fast, Fluid Gameplay",
+      "feature1Description": "Tight controls and responsive physics keep every possession exciting",
+      "feature2Title": "Signature Moves",
+      "feature2Description": "Alley‑oops, blocks, and power dunks to swing momentum",
+      "feature3Title": "Local or Solo Play",
+      "feature3Description": "Go head‑to‑head with a friend or take on the AI",
+      "feature4Title": "Clean Visuals",
+      "feature4Description": "Smooth animations and clear court presentation"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    }
+  }
+}

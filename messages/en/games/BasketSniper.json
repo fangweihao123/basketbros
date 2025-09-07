@@ -1,0 +1,66 @@
+{
+  "BasketSniper": {
+    "title": "Basket Sniper - Play Online Free",
+    "slogan": "Play Basket Sniper Online",
+    "description": "Immerse yourself in the thrilling world of Basket Sniper, where precision and timing are key. Master the art of dropping balls into baskets and build impressive streaks. Compete globally, adjust your strategy, and climb the leaderboard with every perfectly timed shot. Are you ready for this addictive challenge?",
+    "Loading": {
+      "title": "Loading Basket Sniper..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Play Basket Sniper Online",
+      "description": "Immerse yourself in the thrilling world of Basket Sniper, where precision and timing are key. Master the art of dropping balls into baskets and build impressive streaks. Compete globally, adjust your strategy, and climb the leaderboard with every perfectly timed shot. Are you ready for this addictive challenge?",
+      "iframeTitle": "Basket Sniper Game",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Basket Sniper"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Basket Sniper",
+      "whatIsTitle": "What is Basket Sniper?",
+      "whatIsDescription": "Immerse yourself in the thrilling world of Basket Sniper, where precision and timing are key. Master the art of dropping balls into baskets and build impressive streaks. Compete globally, adjust your strategy, and climb the leaderboard with every perfectly timed shot. Are you ready for this addictive challenge?",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use Arrow/WASD to move",
+      "howToPlayStep2": "Press Space to jump",
+      "howToPlayStep3": "Time shots and dunks to score",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Fast, Fluid Gameplay",
+      "feature1Description": "Tight controls keep every possession exciting",
+      "feature2Title": "Clean Visuals",
+      "feature2Description": "Smooth animations and readable court action",
+      "feature3Title": "Instant Play",
+      "feature3Description": "Runs in the browser — no installs",
+      "feature4Title": "Fullscreen Support",
+      "feature4Description": "Toggle fullscreen for immersion"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    }
+  }
+}

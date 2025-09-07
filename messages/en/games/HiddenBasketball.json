@@ -1,0 +1,66 @@
+{
+  "HiddenBasketball": {
+    "title": "Hidden Basketball - Play Online Free",
+    "slogan": "Play Hidden Basketball Online",
+    "description": "Unleash your basketball prowess in Hidden Basketball, where precision meets excitement in a dazzling simulator world. Master your shooting skills in training, face opponents in friendly matches, and dominate tournaments with strategic control and vivid graphics guiding your every move towards glory.",
+    "Loading": {
+      "title": "Loading Hidden Basketball..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Play Hidden Basketball Online",
+      "description": "Unleash your basketball prowess in Hidden Basketball, where precision meets excitement in a dazzling simulator world. Master your shooting skills in training, face opponents in friendly matches, and dominate tournaments with strategic control and vivid graphics guiding your every move towards glory.",
+      "iframeTitle": "Hidden Basketball Game",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Hidden Basketball"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hidden Basketball",
+      "whatIsTitle": "What is Hidden Basketball?",
+      "whatIsDescription": "Unleash your basketball prowess in Hidden Basketball, where precision meets excitement in a dazzling simulator world. Master your shooting skills in training, face opponents in friendly matches, and dominate tournaments with strategic control and vivid graphics guiding your every move towards glory.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use Arrow/WASD to move",
+      "howToPlayStep2": "Press Space to jump",
+      "howToPlayStep3": "Time shots and dunks to score",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Fast, Fluid Gameplay",
+      "feature1Description": "Tight controls keep every possession exciting",
+      "feature2Title": "Clean Visuals",
+      "feature2Description": "Smooth animations and readable court action",
+      "feature3Title": "Instant Play",
+      "feature3Description": "Runs in the browser — no installs",
+      "feature4Title": "Fullscreen Support",
+      "feature4Description": "Toggle fullscreen for immersion"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    }
+  }
+}

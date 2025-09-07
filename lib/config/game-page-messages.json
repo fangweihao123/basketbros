@@ -1,6 +1,28 @@
 {
   "en": [
-
+    "/games/HoopWorld.json",
+    "/games/HoopsTheGame.json",
+    "/games/BasketBattle1.json",
+    "/games/BasketballBeans.json",
+    "/games/DropDunks.json",
+    "/games/BasketballsSchool.json",
+    "/games/StreetBasketball.json",
+    "/games/HiddenBasketball.json",
+    "/games/BasketballPark.json",
+    "/games/BasketballRunner.json",
+    "/games/BasketballStreet.json",
+    "/games/SkibidiToiletBasketball.json",
+    "/games/ChillDunk.json",
+    "/games/IncredibleBasketball.json",
+    "/games/BasketballLife3d.json",
+    "/games/BasketSniper.json",
+    "/games/PerfectShot.json",
+    "/games/BasketNewEraBasketball.json",
+    "/games/SlingShot.json",
+    "/games/SkibidiToiletBasket.json",
+    "/games/BasketballBlitz.json",
+    "/games/PixelBasket.json",
+    "/games/BasketLine.json",
+    "/games/FastHoops.json"
   ]
-
 }

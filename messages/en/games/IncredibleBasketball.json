@@ -1,0 +1,66 @@
+{
+  "IncredibleBasketball": {
+    "title": "Incredible Basketball - Play Online Free",
+    "slogan": "Play Incredible Basketball Online",
+    "description": "Incredible Basketball delivers an innovative twist on scoring baskets with a creative use of unconventional tools. Utilize click-and-drag mechanics to navigate obstacles like blocks and spinners across increasingly challenging puzzles. Engage your strategic mind in a playful environment where experimentation and clever problem-solving lead to victory.",
+    "Loading": {
+      "title": "Loading Incredible Basketball..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Play Incredible Basketball Online",
+      "description": "Incredible Basketball delivers an innovative twist on scoring baskets with a creative use of unconventional tools. Utilize click-and-drag mechanics to navigate obstacles like blocks and spinners across increasingly challenging puzzles. Engage your strategic mind in a playful environment where experimentation and clever problem-solving lead to victory.",
+      "iframeTitle": "Incredible Basketball Game",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Incredible Basketball"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Incredible Basketball",
+      "whatIsTitle": "What is Incredible Basketball?",
+      "whatIsDescription": "Incredible Basketball delivers an innovative twist on scoring baskets with a creative use of unconventional tools. Utilize click-and-drag mechanics to navigate obstacles like blocks and spinners across increasingly challenging puzzles. Engage your strategic mind in a playful environment where experimentation and clever problem-solving lead to victory.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use Arrow/WASD to move",
+      "howToPlayStep2": "Press Space to jump",
+      "howToPlayStep3": "Time shots and dunks to score",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Fast, Fluid Gameplay",
+      "feature1Description": "Tight controls keep every possession exciting",
+      "feature2Title": "Clean Visuals",
+      "feature2Description": "Smooth animations and readable court action",
+      "feature3Title": "Instant Play",
+      "feature3Description": "Runs in the browser — no installs",
+      "feature4Title": "Fullscreen Support",
+      "feature4Description": "Toggle fullscreen for immersion"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    }
+  }
+}

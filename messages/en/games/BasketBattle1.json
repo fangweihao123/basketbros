@@ -1,0 +1,66 @@
+{
+  "BasketBattle1": {
+    "title": "Basket Battle - Play Online Free",
+    "slogan": "Play Basket Battle Online",
+    "description": "Unleash your competitive spirit in Basket Battle, a thrilling twist on classic basketball. Strategize and outmaneuver your opponent to make each shot count while preventing their success. Experience high-stakes, adrenaline-pumping gameplay where every block and score offer a rush of excitement and strategic depth.",
+    "Loading": {
+      "title": "Loading Basket Battle..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Play Basket Battle Online",
+      "description": "Unleash your competitive spirit in Basket Battle, a thrilling twist on classic basketball. Strategize and outmaneuver your opponent to make each shot count while preventing their success. Experience high-stakes, adrenaline-pumping gameplay where every block and score offer a rush of excitement and strategic depth.",
+      "iframeTitle": "Basket Battle Game",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Basket Battle"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Basket Battle",
+      "whatIsTitle": "What is Basket Battle?",
+      "whatIsDescription": "Unleash your competitive spirit in Basket Battle, a thrilling twist on classic basketball. Strategize and outmaneuver your opponent to make each shot count while preventing their success. Experience high-stakes, adrenaline-pumping gameplay where every block and score offer a rush of excitement and strategic depth.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use Arrow/WASD to move",
+      "howToPlayStep2": "Press Space to jump",
+      "howToPlayStep3": "Time shots and dunks to score",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Fast, Fluid Gameplay",
+      "feature1Description": "Tight controls keep every possession exciting",
+      "feature2Title": "Clean Visuals",
+      "feature2Description": "Smooth animations and readable court action",
+      "feature3Title": "Instant Play",
+      "feature3Description": "Runs in the browser — no installs",
+      "feature4Title": "Fullscreen Support",
+      "feature4Description": "Toggle fullscreen for immersion"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    }
+  }
+}

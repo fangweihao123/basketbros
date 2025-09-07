@@ -1,0 +1,66 @@
+{
+  "BasketLine": {
+    "title": "Basket Line - Play Online Free",
+    "slogan": "Play Basket Line Online",
+    "description": "Guide basketballs to the hoop with precision using intuitive line-drawing in this captivating puzzle-arcade game. Tackle progressively complex challenges that demand strategic thinking and creativity. Mastering angles and trajectories is key, while simple controls and engaging physics ensure endless fun for players of all ages. Compete globally for top scores!",
+    "Loading": {
+      "title": "Loading Basket Line..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Play Basket Line Online",
+      "description": "Guide basketballs to the hoop with precision using intuitive line-drawing in this captivating puzzle-arcade game. Tackle progressively complex challenges that demand strategic thinking and creativity. Mastering angles and trajectories is key, while simple controls and engaging physics ensure endless fun for players of all ages. Compete globally for top scores!",
+      "iframeTitle": "Basket Line Game",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Basket Line"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Basket Line",
+      "whatIsTitle": "What is Basket Line?",
+      "whatIsDescription": "Guide basketballs to the hoop with precision using intuitive line-drawing in this captivating puzzle-arcade game. Tackle progressively complex challenges that demand strategic thinking and creativity. Mastering angles and trajectories is key, while simple controls and engaging physics ensure endless fun for players of all ages. Compete globally for top scores!",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use Arrow/WASD to move",
+      "howToPlayStep2": "Press Space to jump",
+      "howToPlayStep3": "Time shots and dunks to score",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Fast, Fluid Gameplay",
+      "feature1Description": "Tight controls keep every possession exciting",
+      "feature2Title": "Clean Visuals",
+      "feature2Description": "Smooth animations and readable court action",
+      "feature3Title": "Instant Play",
+      "feature3Description": "Runs in the browser — no installs",
+      "feature4Title": "Fullscreen Support",
+      "feature4Description": "Toggle fullscreen for immersion"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    }
+  }
+}

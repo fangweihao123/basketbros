@@ -1,0 +1,66 @@
+{
+  "SkibidiToiletBasketball": {
+    "title": "Skibidi Toilet Basketball - Play Online Free",
+    "slogan": "Play Skibidi Toilet Basketball Online",
+    "description": "Skibidi Toilet Basketball challenges you to flick heads at toilets for a quirky twist on arcade fun. Strategically use barrier bounces to score in vibrant, intricate levels. Master your aim and reflexes as you vie for top spots on the leaderboard in this uniquely entertaining game.",
+    "Loading": {
+      "title": "Loading Skibidi Toilet Basketball..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Play Skibidi Toilet Basketball Online",
+      "description": "Skibidi Toilet Basketball challenges you to flick heads at toilets for a quirky twist on arcade fun. Strategically use barrier bounces to score in vibrant, intricate levels. Master your aim and reflexes as you vie for top spots on the leaderboard in this uniquely entertaining game.",
+      "iframeTitle": "Skibidi Toilet Basketball Game",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Skibidi Toilet Basketball"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Skibidi Toilet Basketball",
+      "whatIsTitle": "What is Skibidi Toilet Basketball?",
+      "whatIsDescription": "Skibidi Toilet Basketball challenges you to flick heads at toilets for a quirky twist on arcade fun. Strategically use barrier bounces to score in vibrant, intricate levels. Master your aim and reflexes as you vie for top spots on the leaderboard in this uniquely entertaining game.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use Arrow/WASD to move",
+      "howToPlayStep2": "Press Space to jump",
+      "howToPlayStep3": "Time shots and dunks to score",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Fast, Fluid Gameplay",
+      "feature1Description": "Tight controls keep every possession exciting",
+      "feature2Title": "Clean Visuals",
+      "feature2Description": "Smooth animations and readable court action",
+      "feature3Title": "Instant Play",
+      "feature3Description": "Runs in the browser — no installs",
+      "feature4Title": "Fullscreen Support",
+      "feature4Description": "Toggle fullscreen for immersion"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    }
+  }
+}

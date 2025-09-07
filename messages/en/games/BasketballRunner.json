@@ -1,0 +1,66 @@
+{
+  "BasketballRunner": {
+    "title": "BasketBall Runner - Play Online Free",
+    "slogan": "Play BasketBall Runner Online",
+    "description": "Become a basketball navigant in BasketBall Runner, where skillful maneuvering through 75 thrilling levels is key. Tackle unpredictable hoops and cunning traps, mastering your agility and strategy with adjustable perspectives and diverse ball choices while striving for hoop precision in an exhilarating, obstacle-rich journey.",
+    "Loading": {
+      "title": "Loading BasketBall Runner..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Play BasketBall Runner Online",
+      "description": "Become a basketball navigant in BasketBall Runner, where skillful maneuvering through 75 thrilling levels is key. Tackle unpredictable hoops and cunning traps, mastering your agility and strategy with adjustable perspectives and diverse ball choices while striving for hoop precision in an exhilarating, obstacle-rich journey.",
+      "iframeTitle": "BasketBall Runner Game",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play BasketBall Runner"
+    },
+    "HomeFeatures": {
+      "gameTitle": "BasketBall Runner",
+      "whatIsTitle": "What is BasketBall Runner?",
+      "whatIsDescription": "Become a basketball navigant in BasketBall Runner, where skillful maneuvering through 75 thrilling levels is key. Tackle unpredictable hoops and cunning traps, mastering your agility and strategy with adjustable perspectives and diverse ball choices while striving for hoop precision in an exhilarating, obstacle-rich journey.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use Arrow/WASD to move",
+      "howToPlayStep2": "Press Space to jump",
+      "howToPlayStep3": "Time shots and dunks to score",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Fast, Fluid Gameplay",
+      "feature1Description": "Tight controls keep every possession exciting",
+      "feature2Title": "Clean Visuals",
+      "feature2Description": "Smooth animations and readable court action",
+      "feature3Title": "Instant Play",
+      "feature3Description": "Runs in the browser — no installs",
+      "feature4Title": "Fullscreen Support",
+      "feature4Description": "Toggle fullscreen for immersion"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    }
+  }
+}
