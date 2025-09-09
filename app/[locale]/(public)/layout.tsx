@@ -13,7 +13,6 @@ import { GoogleAnalytics } from '@next/third-parties/google';
 import MicrosoftClarity from '@/lib/components/microsoft-clarity';
 import { SidebarProvider } from '@/lib/context/SidebarContext';
 import NativeBannerAd from './views/NativeBannerAd';
-import PopunderAd from './views/PopunderAd';
 
 type Props = {
   children: ReactNode;
