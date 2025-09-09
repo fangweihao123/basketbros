@@ -114,6 +114,11 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
               ))}
             </div>
             <ul className="flex flex-wrap items-center gap-6">
+               <li>
+                <Link href="https://telegra.ph/The-Game-That-Brought-Back-My-Playground-Memories-BasketballBros-09-09" className="text-footer-foreground/80 hover:text-footer-foreground transition-colors">
+                  Introduction
+                </Link>
+              </li>
               <li>
                 <Link href="/privacy-policy" className="text-footer-foreground/80 hover:text-footer-foreground transition-colors">
                   {t('Common.privacyPolicy')}
